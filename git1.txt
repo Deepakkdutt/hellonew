@@ -3,3 +3,7 @@ Class Hype{
 }
 
 }
+ int fun2(){
+}
+
+}
